@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: TABC Assignments
+## Author: Xerron/Er
+## Version: 1.0.0.0
+## Notes: Raid Tank/Healer Assignments
+## SavedVariables: TABCA_DATA, TABCA_PRESETS
+ChatThrottleLib\ChatThrottleLib.lua
+TABCAssignments.xml

@@ -65,7 +65,7 @@ function twaerror(a)
 end
 
 function twadebug(a)
-    twaprint('|cff0070de[TWADEBUG:' .. time() .. ']|cffffffff[' .. a .. ']')
+    --twaprint('|cff0070de[TWADEBUG:' .. time() .. ']|cffffffff[' .. a .. ']')
 end
 
 TABCA:RegisterEvent("ADDON_LOADED")
